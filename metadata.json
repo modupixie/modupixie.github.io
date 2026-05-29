@@ -1,0 +1,6 @@
+{
+  "name": "Modu Pixie",
+  "description": "An interactive, scroll-driven luxury customizable electric guitar landing page and designer studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
